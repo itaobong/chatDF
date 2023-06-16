@@ -46,5 +46,5 @@ This application utilizes the following technologies:
    - LangChain: A library for natural language processing tasks, including text splitting, embeddings, and question-answering.
    - OpenAI: The OpenAI LLM model, used for generating responses to user queries.
 
-**Contributing**
+## **Contributing**
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
