@@ -15,7 +15,7 @@ ChatDF is an LLM-powered chatbot application built using Streamlit, LangChain, a
 3. Install the required dependencies:
    `pip install -r requirements.txt
    
-4. Visit   ```shell https://platform.openai.com/``` to get your API key
+4. Visit   `https://platform.openai.com/` to get your API key
    
 5. Create a `.env` file in the project directory and set the required environment variables:
    `OPENAI_API_KEY=<your_openai_api_key>`
